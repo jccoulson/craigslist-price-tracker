@@ -1,0 +1,2 @@
+#0 * * * * /home/user/scriptdirectory/price_check.py 
+#0 0 * * * /home/user/scriptdirectory/email_listings.py
